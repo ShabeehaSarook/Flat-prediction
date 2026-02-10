@@ -1,0 +1,24 @@
+# Python Dependencies for Real Estate Price Prediction System
+# Install with: pip install -r requirements.txt
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Model Persistence
+joblib>=1.2.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter Notebook (for .ipynb file)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Optional: Flask API (if you want to run ML model as API)
+# flask>=2.3.0
+# flask-cors>=4.0.0
